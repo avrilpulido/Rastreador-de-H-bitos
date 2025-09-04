@@ -1,6 +1,6 @@
 # Habit Tracker - Vue.js
 
-## 🚀 Cómo ejecutar el proyecto
+## Cómo ejecutar el proyecto
 
 1. Clona este repositorio:
    ```bash
