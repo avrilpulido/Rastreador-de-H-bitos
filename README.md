@@ -4,7 +4,7 @@
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+   git clone https://github.com/avrilpulido/Rastreador-de-H-bitos
 Entra en la carpeta del proyecto:
 
 bash
