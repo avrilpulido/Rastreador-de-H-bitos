@@ -12,4 +12,4 @@
 
 Enlaces
    Repositorio en GitHub: https://github.com/avrilpulido/Rastreador-de-H-bitos
-   GitHub Pages: https://TU_USUARIO.github.io/TU_REPOSITORIO/
+   GitHub Pages: https://avrilpulido.github.io/Rastreador-de-H-bitos/
