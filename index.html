@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Habit Tracker</title>
+  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+  <script src="https://unpkg.com/vue-router@4"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app" class="container">
+    <router-view></router-view>
+  </div>
+
+  <!-- Componentes -->
+  <script src="components/HeaderSummary.js"></script>
+  <script src="components/AddHabitForm.js"></script>
+  <script src="components/HabitList.js"></script>
+
+  <!-- Páginas -->
+  <script src="pages/Home.js"></script>
+  <script src="pages/HabitDetail.js"></script>
+
+  <!-- App principal -->
+  <script src="app.js"></script>
+</body>
+</html>
